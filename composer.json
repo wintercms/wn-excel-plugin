@@ -1,0 +1,29 @@
+{
+    "name": "winter/wn-excel-plugin",
+    "type": "winter-plugin",
+    "description": "Provides tools for working with Excel files in Winter CMS",
+    "homepage": "https://github.com/wintercms/wn-excel-plugin",
+    "keywords": ["winter", "excel", "driver", "laravel", "winter cms", "wintercms"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Towers",
+            "email": "wintercms@luketowers.ca",
+            "homepage": "https://luketowers.ca",
+            "role": "Author"
+        },
+        {
+            "name": "Winter CMS Maintainers",
+            "homepage": "https://wintercms.com",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/wintercms/wn-excel-plugin/issues",
+        "discord": "https://discord.gg/D5MFSPH6Ux",
+        "source": "https://github.com/wintercms/wn-excel-plugin"
+    },
+    "require": {
+        "maatwebsite/excel": "~3.1.41"
+    }
+}
